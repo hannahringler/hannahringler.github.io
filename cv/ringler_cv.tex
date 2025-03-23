@@ -1,0 +1,28 @@
+\documentclass[bibliography=numbered]{clean_cv}
+\usepackage{biblatex}
+\usepackage{longtable, amsmath}
+\usepackage{changepage}
+\DeclareFieldFormat{extradate}{}
+%\renewcommand{\bottomfraction}{.98}
+
+\addbibresource{publications.bib}
+
+\author{Hannah Ringler}
+\headlineposition{Curriculum Vitae}
+
+\begin{document}
+\maketitle
+
+\input{contact}
+\input{employment}
+\input{education}
+\nocite{*} % Loads every entry from the attached .bib file
+\input{publicationlist}
+\input{presentations}
+\input{teaching}
+\input{service}
+\input{awards}
+\input{memberships}
+\input{languages}
+
+\end{document}
