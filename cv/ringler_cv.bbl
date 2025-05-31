@@ -19,6 +19,64 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global/global}
+    \entry{datadriven}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
+           family={Ringler},
+           familyi={R\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=cf8d7d3425d75e2ca37050afbb045998}{%
+           family={Vetter},
+           familyi={V\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7b0cb4ca93dfcf133d4f858449a40211}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jialei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cad34dcf66c0f519f3dda6eb26bf5c8e}{%
+           family={Lucia},
+           familyi={L\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4c484add543cf53bed9a13c1bc4d209a}{%
+           family={Farag},
+           familyi={F\bibinitperiod},
+           given={Islam},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{WAC} Clearinghouse}%
+      }
+      \strng{namehash}{729d554257251526ee034d73529c6e1d}
+      \strng{fullhash}{729d554257251526ee034d73529c6e1d}
+      \strng{fullhashraw}{729d554257251526ee034d73529c6e1d}
+      \strng{bibnamehash}{729d554257251526ee034d73529c6e1d}
+      \strng{authorbibnamehash}{729d554257251526ee034d73529c6e1d}
+      \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
+      \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
+      \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
+      \strng{editorbibnamehash}{5b9b34dd8abca2863e5620635f0908ed}
+      \strng{editornamehash}{5b9b34dd8abca2863e5620635f0908ed}
+      \strng{editorfullhash}{adc235b8c0b682a62b444668441dd429}
+      \strng{editorfullhashraw}{adc235b8c0b682a62b444668441dd429}
+      \field{extraname}{1}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Data-Driven Approaches to Generative {AI} and Writing Research}
+      \field{series}{{WAC} Clearinghouse Practices and Possibilities Series}
+      \field{title}{Difference in generative {AI}'s feedback to writing by native and non-native English speaking students}
+      \field{year}{forthcoming}
+      \true{nocite}
+    \endentry
     \entry{comphum}{incollection}{}{}
       \name{author}{1}{}{%
         {{hash=729d554257251526ee034d73529c6e1d}{%
@@ -59,7 +117,7 @@
       \strng{editornamehash}{2c7f2536438cef165c32e4ba8a1074b7}
       \strng{editorfullhash}{2c7f2536438cef165c32e4ba8a1074b7}
       \strng{editorfullhashraw}{2c7f2536438cef165c32e4ba8a1074b7}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -91,7 +149,7 @@
       \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -126,7 +184,7 @@
       \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}

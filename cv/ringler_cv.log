@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  28 MAY 2025 15:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 MAY 2025 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -887,9 +887,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/xcharter/xch1_dp2hrq.enc}{/usr/local
 /texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/
-texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/t
-exlive/2025/texmf-dist/fonts/enc/dvips/xcharter/xch1_yr3lcc.enc}{/usr/local/tex
-live/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
 
 Package biblatex Warning: Split bibliography detected.
 (biblatex)                Many simple split bibliography setups with
@@ -901,14 +899,16 @@ Package biblatex Warning: Split bibliography detected.
 
 ) (./presentations.tex
 
-[2]) (./teaching.tex
+[2{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/xcharter/xch1_yr3lcc.enc}
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}])
+(./teaching.tex
 Overfull \hbox (8.48793pt too wide) in alignment at lines 6--27
  [] [] 
  []
 
-) (./service.tex
+[3]) (./service.tex) (./awards.tex) (./memberships.tex
 
-[3]) (./awards.tex) (./memberships.tex) (./languages.tex
+[4]) (./languages.tex
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
 (Font)              scaled to size 7.68005pt on input line 7.
 
@@ -916,9 +916,7 @@ Overfull \hbox (8.48793pt too wide) in alignment at lines 2--9
  [] [] 
  []
 
-
-
-[4])
+)
 
 [5] (./ringler_cv.aux)
  ***********
@@ -932,10 +930,10 @@ Package logreq Info: Writing requests to 'ringler_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24824 strings out of 473190
- 448598 string characters out of 5715801
- 1309552 words of memory out of 5000000
- 47618 multiletter control sequences out of 15000+600000
+ 24829 strings out of 473190
+ 448760 string characters out of 5715801
+ 1309591 words of memory out of 5000000
+ 47622 multiletter control sequences out of 15000+600000
  632083 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,8n,93p,1003b,1716s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -945,10 +943,10 @@ er/XCharter-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xch
 arter/XCharter-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/xcharter/XCharter-Roman.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
 ublic/cm-super/sftt1095.pfb>
-Output written on ringler_cv.pdf (5 pages, 238872 bytes).
+Output written on ringler_cv.pdf (5 pages, 239362 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  32841 words of extra memory for PDF output out of 35830 (max. 10000000)
 
