@@ -18,7 +18,7 @@
 \linespread{1.04}
 
 % Load biber
-\RequirePackage[backend=biber,sorting=ydnt,block=none,bibstyle=bwl-FU,doi=false,isbn=false]{biblatex}
+\RequirePackage[backend=biber,block=none,bibstyle=apa,doi=true,isbn=false]{biblatex}
 \setlength\bibitemsep{1.5\itemsep}
 \RequirePackage[hidelinks]{hyperref}
 
