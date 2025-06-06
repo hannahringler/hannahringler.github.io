@@ -18,321 +18,14 @@
 
 
 \refsection{0}
-  \datalist[entry]{ydnt/apasortcite//global/global/global}
-    \entry{datadriven}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{4}{}{%
-        {{hash=cf8d7d3425d75e2ca37050afbb045998}{%
-           family={Vetter},
-           familyi={V\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7b0cb4ca93dfcf133d4f858449a40211}{%
-           family={Jiang},
-           familyi={J\bibinitperiod},
-           given={Jialei},
-           giveni={J\bibinitperiod}}}%
-        {{hash=cad34dcf66c0f519f3dda6eb26bf5c8e}{%
-           family={Lucia},
-           familyi={L\bibinitperiod},
-           given={Brent},
-           giveni={B\bibinitperiod}}}%
-        {{hash=4c484add543cf53bed9a13c1bc4d209a}{%
-           family={Farag},
-           familyi={F\bibinitperiod},
-           given={Islam},
-           giveni={I\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {{WAC} Clearinghouse}%
-      }
-      \strng{namehash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{bibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorbibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{editorbibnamehash}{adc235b8c0b682a62b444668441dd429}
-      \strng{editornamehash}{5b9b34dd8abca2863e5620635f0908ed}
-      \strng{editorfullhash}{adc235b8c0b682a62b444668441dd429}
-      \strng{editorfullhashraw}{adc235b8c0b682a62b444668441dd429}
-      \field{extraname}{1}
-      \field{sortinit}{f}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Data-Driven Approaches to Generative {AI} and Writing Research}
-      \field{series}{Practices and Possibilities Series}
-      \field{title}{Difference in generative {AI}'s feedback to writing by native and non-native English speaking students}
-      \field{year}{forthcoming}
-      \true{nocite}
-    \endentry
-    \entry{comphum}{inbook}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=2f92f0d7fc390e904138bf8d632ff2f0}{%
-           family={Johnson},
-           familyi={J\bibinitperiod},
-           given={Jessica\bibnamedelima Marie},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=d0b37f86f34b5267e38b3e2defce4051}{%
-           family={Mimno},
-           familyi={M\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-        {{hash=f604608795c61c5e27016400c74559fe}{%
-           family={Tilton},
-           familyi={T\bibinitperiod},
-           given={Lauren},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {University of Minnesota Press}%
-      }
-      \strng{namehash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{bibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorbibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{editorbibnamehash}{2c7f2536438cef165c32e4ba8a1074b7}
-      \strng{editornamehash}{85590a4845f1576b1633ce6c31bf7f5e}
-      \strng{editorfullhash}{2c7f2536438cef165c32e4ba8a1074b7}
-      \strng{editorfullhashraw}{2c7f2536438cef165c32e4ba8a1074b7}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Computational Humanities}
-      \field{chapter}{1}
-      \field{series}{Debates in the Digital Humanities Series}
-      \field{title}{Computation and hermeneutics: Why we still need interpretation to be (computational) humanists}
-      \field{year}{2024}
-      \true{nocite}
-      \field{pages}{3\bibrangedash 17}
-      \range{pages}{15}
-    \endentry
-    \entry{steamreview}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{bibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorbibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The {WAC} Journal}
-      \field{title}{Review of \textit{Writing {STEAM}: Composition, {STEM}, and a New Humanities}, edited by {V}ivian {K}ao \& {J}ulia {E}. {K}iernan}
-      \field{year}{2023}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://wac.colostate.edu/docs/journal/vol33/ringler.pdf
-      \endverb
-      \verb{url}
-      \verb https://wac.colostate.edu/docs/journal/vol33/ringler.pdf
-      \endverb
-      \keyw{bookreview}
-    \endentry
-    \entry{dsh2021}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{fullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{bibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorbibnamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
-      \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \field{extraname}{4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issue}{4}
-      \field{journaltitle}{Digital Scholarship in the Humanities}
-      \field{title}{`{W}e can’t read it all': Theorizing a hermeneutics for large-scale data in the humanities with a case study in stylometry}
-      \field{volume}{37}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{1157\bibrangedash 1171}
-      \range{pages}{15}
-      \verb{urlraw}
-      \verb https://doi.org/10.1093/llc/fqab100
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1093/llc/fqab100
-      \endverb
-      \keyw{YEAR-2021}
-    \endentry
-    \entry{onward2020}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=867034fee2e42c70edc9da620bc623d4}{%
-           family={Muller},
-           familyi={M\bibinitperiod},
-           given={Stefan\bibnamedelima K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Virtual, USA}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery}%
-      }
-      \strng{namehash}{8077be697aeae62972541cc0bdcb6956}
-      \strng{fullhash}{8077be697aeae62972541cc0bdcb6956}
-      \strng{fullhashraw}{8077be697aeae62972541cc0bdcb6956}
-      \strng{bibnamehash}{8077be697aeae62972541cc0bdcb6956}
-      \strng{authorbibnamehash}{8077be697aeae62972541cc0bdcb6956}
-      \strng{authornamehash}{8077be697aeae62972541cc0bdcb6956}
-      \strng{authorfullhash}{8077be697aeae62972541cc0bdcb6956}
-      \strng{authorfullhashraw}{8077be697aeae62972541cc0bdcb6956}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9781450381789}
-      \field{journaltitle}{Proceedings of the 2020 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software}
-      \field{series}{Onward! 2020}
-      \field{title}{A Rhetorical Framework for Programming Language Evaluation}
-      \field{year}{2020}
-      \true{nocite}
-      \field{pages}{187\bibrangedash 194}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1145/3426428.3426927
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1145/3426428.3426927
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1145/3426428.3426927
-      \endverb
-      \keyw{justifying claims,rhetoric,programming language evaluation}
-    \endentry
-    \entry{jowa2018}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
-           family={Ringler},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3da4fce204e846c1591ecac80a28c64f}{%
-           family={Beigman\bibnamedelima Klebanov},
-           familyi={B\bibinitperiod\bibinitdelim K\bibinitperiod},
-           given={Beata},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=690f4fc79118adbb9df5dbeb95c23f43}{%
-           family={Kaufer},
-           familyi={K\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{907f37df49da2d179c04af5d71f7df49}
-      \strng{fullhash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \strng{fullhashraw}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \strng{bibnamehash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \strng{authorbibnamehash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \strng{authornamehash}{907f37df49da2d179c04af5d71f7df49}
-      \strng{authorfullhash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \strng{authorfullhashraw}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Writing Analytics}
-      \field{title}{Placing writing tasks in local and global contexts: The case of argumentative writing}
-      \field{volume}{2}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \true{nocite}
-      \field{pages}{34\bibrangedash 77}
-      \range{pages}{44}
-      \verb{urlraw}
-      \verb https://doi.org/10.37514/JWA-J.2018.2.1.03
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.37514/JWA-J.2018.2.1.03
-      \endverb
-      \keyw{YEAR-2018}
-    \endentry
-  \enddatalist
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{datadriven}{inbook}{}{}
+    \entry{datadriven}{incollection}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
            family={Ringler},
            familyi={R\bibinitperiod},
            given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod}}}%
       }
       \name{editor}{4}{}{%
         {{hash=cf8d7d3425d75e2ca37050afbb045998}{%
@@ -367,7 +60,7 @@
       \strng{authornamehash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
-      \strng{editorbibnamehash}{adc235b8c0b682a62b444668441dd429}
+      \strng{editorbibnamehash}{5b9b34dd8abca2863e5620635f0908ed}
       \strng{editornamehash}{5b9b34dd8abca2863e5620635f0908ed}
       \strng{editorfullhash}{adc235b8c0b682a62b444668441dd429}
       \strng{editorfullhashraw}{adc235b8c0b682a62b444668441dd429}
@@ -376,7 +69,6 @@
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Data-Driven Approaches to Generative {AI} and Writing Research}
@@ -385,14 +77,13 @@
       \field{year}{forthcoming}
       \true{nocite}
     \endentry
-    \entry{comphum}{inbook}{}{}
+    \entry{comphum}{incollection}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
            family={Ringler},
            familyi={R\bibinitperiod},
            given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
         {{hash=2f92f0d7fc390e904138bf8d632ff2f0}{%
@@ -423,7 +114,7 @@
       \strng{authorfullhash}{729d554257251526ee034d73529c6e1d}
       \strng{authorfullhashraw}{729d554257251526ee034d73529c6e1d}
       \strng{editorbibnamehash}{2c7f2536438cef165c32e4ba8a1074b7}
-      \strng{editornamehash}{85590a4845f1576b1633ce6c31bf7f5e}
+      \strng{editornamehash}{2c7f2536438cef165c32e4ba8a1074b7}
       \strng{editorfullhash}{2c7f2536438cef165c32e4ba8a1074b7}
       \strng{editorfullhashraw}{2c7f2536438cef165c32e4ba8a1074b7}
       \field{extraname}{2}
@@ -431,7 +122,6 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Computational Humanities}
@@ -445,12 +135,11 @@
     \endentry
     \entry{steamreview}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
            family={Ringler},
            familyi={R\bibinitperiod},
            given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod}}}%
       }
       \strng{namehash}{729d554257251526ee034d73529c6e1d}
       \strng{fullhash}{729d554257251526ee034d73529c6e1d}
@@ -465,7 +154,6 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The {WAC} Journal}
@@ -482,12 +170,11 @@
     \endentry
     \entry{dsh2021}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
            family={Ringler},
            familyi={R\bibinitperiod},
            given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod}}}%
       }
       \strng{namehash}{729d554257251526ee034d73529c6e1d}
       \strng{fullhash}{729d554257251526ee034d73529c6e1d}
@@ -502,7 +189,6 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{4}
@@ -522,20 +208,18 @@
       \endverb
       \keyw{YEAR-2021}
     \endentry
-    \entry{onward2020}{article}{}{}
+    \entry{onward2020}{inproceedings}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=867034fee2e42c70edc9da620bc623d4}{%
+        {{hash=867034fee2e42c70edc9da620bc623d4}{%
            family={Muller},
            familyi={M\bibinitperiod},
            given={Stefan\bibnamedelima K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
            family={Ringler},
            familyi={R\bibinitperiod},
            given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
+           giveni={H\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Virtual, USA}%
@@ -555,11 +239,10 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2020 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software}
       \field{isbn}{9781450381789}
-      \field{journaltitle}{Proceedings of the 2020 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software}
       \field{series}{Onward! 2020}
       \field{title}{A Rhetorical Framework for Programming Language Evaluation}
       \field{year}{2020}
@@ -579,38 +262,34 @@
     \endentry
     \entry{jowa2018}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=729d554257251526ee034d73529c6e1d}{%
+        {{hash=729d554257251526ee034d73529c6e1d}{%
            family={Ringler},
            familyi={R\bibinitperiod},
            given={Hannah},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3da4fce204e846c1591ecac80a28c64f}{%
+           giveni={H\bibinitperiod}}}%
+        {{hash=3da4fce204e846c1591ecac80a28c64f}{%
            family={Beigman\bibnamedelima Klebanov},
            familyi={B\bibinitperiod\bibinitdelim K\bibinitperiod},
            given={Beata},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=690f4fc79118adbb9df5dbeb95c23f43}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=690f4fc79118adbb9df5dbeb95c23f43}{%
            family={Kaufer},
            familyi={K\bibinitperiod},
            given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
+           giveni={D\bibinitperiod}}}%
       }
-      \strng{namehash}{907f37df49da2d179c04af5d71f7df49}
+      \strng{namehash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \strng{fullhash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \strng{fullhashraw}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \strng{bibnamehash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \strng{authorbibnamehash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
-      \strng{authornamehash}{907f37df49da2d179c04af5d71f7df49}
+      \strng{authornamehash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \strng{authorfullhash}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \strng{authorfullhashraw}{dcc6e52dccfff3a0f49d9b6387ad95b9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Writing Analytics}
