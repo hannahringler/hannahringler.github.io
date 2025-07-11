@@ -96,7 +96,7 @@
 \qquad {#2} \vspace{.4em}
 
 }
-\newcommand{\teachingentry}[2]{\textbf{{#1}: {#2}}
+\newcommand{\teachingentry}[2]{\textbf{{#1}} {#2}
 \vspace{.4em}
 
 }

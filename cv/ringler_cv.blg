@@ -1,21 +1,21 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'ringler_cv.blg'
-[41] biber-darwin:340> INFO - === Fri Jul 11, 2025, 16:19:24
-[51] Biber.pm:420> INFO - Reading 'ringler_cv.bcf'
-[95] Biber.pm:991> INFO - Using all citekeys in bib section 0
-[108] Biber.pm:4463> INFO - Processing section 0
-[114] Biber.pm:4654> INFO - Looking for bibtex file 'publications.bib' for section 0
-[115] bibtex.pm:1713> INFO - LaTeX decoding ...
-[120] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
-[177] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[177] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[177] Biber.pm:4283> INFO - Sorting list 'ydnt/apasortcite//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[177] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[187] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[187] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[187] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[187] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[193] bbl.pm:676> INFO - Writing 'ringler_cv.bbl' with encoding 'UTF-8'
-[197] bbl.pm:779> INFO - Output to ringler_cv.bbl
-[197] Biber.pm:131> WARN - legacy year field 'forthcoming' in entry 'datadriven' is not an integer - this will probably not sort properly.
-[197] Biber.pm:133> INFO - WARNINGS: 1
+[33] biber-darwin:340> INFO - === Fri Jul 11, 2025, 16:20:31
+[42] Biber.pm:420> INFO - Reading 'ringler_cv.bcf'
+[85] Biber.pm:991> INFO - Using all citekeys in bib section 0
+[96] Biber.pm:4463> INFO - Processing section 0
+[101] Biber.pm:4654> INFO - Looking for bibtex file 'publications.bib' for section 0
+[102] bibtex.pm:1713> INFO - LaTeX decoding ...
+[106] bibtex.pm:1519> INFO - Found BibTeX data source 'publications.bib'
+[155] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[155] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[155] Biber.pm:4283> INFO - Sorting list 'ydnt/apasortcite//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[155] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[165] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[165] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[165] Biber.pm:4283> INFO - Sorting list 'ydnt/global//global/global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[165] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[171] bbl.pm:676> INFO - Writing 'ringler_cv.bbl' with encoding 'UTF-8'
+[175] bbl.pm:779> INFO - Output to ringler_cv.bbl
+[175] Biber.pm:131> WARN - legacy year field 'forthcoming' in entry 'datadriven' is not an integer - this will probably not sort properly.
+[175] Biber.pm:133> INFO - WARNINGS: 1
