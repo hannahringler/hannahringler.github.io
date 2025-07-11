@@ -96,14 +96,12 @@
 \qquad {#2} \vspace{.4em}
 
 }
-\newcommand{\teachingentry}[3]{\textbf{{#1}: {#2}}
-
-\qquad {#3} \vspace{.4em}
+\newcommand{\teachingentry}[2]{\textbf{{#1}: {#2}}
+\vspace{.4em}
 
 }
-\newcommand{\teachingentryweird}[2]{\textbf{{#1}}
-
-\qquad {#2} \vspace{.4em}
+\newcommand{\teachingentryweird}[1]{\textbf{{#1}}
+\vspace{.4em}
 
 }
 
