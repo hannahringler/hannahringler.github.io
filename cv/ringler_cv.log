@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 AUG 2025 15:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 AUG 2025 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -944,9 +944,11 @@ Overfull \hbox (8.48793pt too wide) in alignment at lines 2--9
  [] [] 
  []
 
-) (./references.tex)
+) (./references.tex
 
-[4] (./ringler_cv.aux)
+[4])
+
+[5] (./ringler_cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -958,8 +960,8 @@ Package logreq Info: Writing requests to 'ringler_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25474 strings out of 473190
- 461888 string characters out of 5715801
+ 25475 strings out of 473190
+ 461894 string characters out of 5715801
  1422072 words of memory out of 5000000
  48276 multiletter control sequences out of 15000+600000
  623053 words of font info for 144 fonts, out of 8000000 for 9000
@@ -970,10 +972,10 @@ me5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xchart
 er/XCharter-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xch
 arter/XCharter-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/xcharter/XCharter-Roman.pfb>
-Output written on ringler_cv.pdf (4 pages, 206699 bytes).
+Output written on ringler_cv.pdf (5 pages, 207750 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
+ 120 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
  28241 words of extra memory for PDF output out of 29859 (max. 10000000)
 
