@@ -110,5 +110,15 @@
 
 
 }
+\newcommand{\reference}[4]{{\textbf{#1}}
+
+\qquad {\textit{#2}} 
+
+\qquad {#3} 
+
+\qquad {#4} \vspace{.4em}
+
+}
+
 
 \pagestyle{empty}
