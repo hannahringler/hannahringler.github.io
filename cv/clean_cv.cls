@@ -106,7 +106,7 @@
 }
 
 \newcommand{\talkentry}[6]{
-``{#1},'' {#2} by {#3}. \textit{#4}, {#5}, {#6}.\vspace{1em}
+``{#1},'' {#2} by {#3}. \textit{#4}, {#5}; {#6}.\vspace{1em}
 
 
 }
