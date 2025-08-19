@@ -110,6 +110,12 @@
 
 
 }
+\newcommand{\talkattendance}[5]{
+``{#1},'' organized by {#2}. Invited participant. \textit{#3}, {#4}, {#5}.\vspace{1em}
+
+
+}
+
 
 \newcommand{\reference}[4]{{\textbf{#1}}
 
