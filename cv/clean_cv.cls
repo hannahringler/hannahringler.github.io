@@ -117,11 +117,13 @@
 }
 
 
-\newcommand{\reference}[4]{{\textbf{#1}} \hfill {\textit{#2}}
+\newcommand{\reference}[4]{{\textbf{#1}}
 
 \qquad {#3} 
 
-\qquad {#4} \vspace{.4em}
+\qquad {#4} 
+
+\qquad {#2} \vspace{.4em}
 
 }
 
