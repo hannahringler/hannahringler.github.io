@@ -117,9 +117,7 @@
 }
 
 
-\newcommand{\reference}[4]{{\textbf{#1}}
-
-\qquad {\textit{#2}} 
+\newcommand{\reference}[4]{{\textbf{#1}} \hfill {\textit{#2}}
 
 \qquad {#3} 
 
