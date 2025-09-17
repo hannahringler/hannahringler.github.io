@@ -136,6 +136,12 @@
       \true{nocite}
       \field{pages}{3\bibrangedash 17}
       \range{pages}{15}
+      \verb{urlraw}
+      \verb https://dhdebates.gc.cuny.edu/projects/computational-humanities
+      \endverb
+      \verb{url}
+      \verb https://dhdebates.gc.cuny.edu/projects/computational-humanities
+      \endverb
     \endentry
     \entry{steamreview}{article}{}{}
       \name{author}{1}{}{%
@@ -442,6 +448,12 @@
       \true{nocite}
       \field{pages}{3\bibrangedash 17}
       \range{pages}{15}
+      \verb{urlraw}
+      \verb https://dhdebates.gc.cuny.edu/projects/computational-humanities
+      \endverb
+      \verb{url}
+      \verb https://dhdebates.gc.cuny.edu/projects/computational-humanities
+      \endverb
     \endentry
     \entry{steamreview}{article}{}{}
       \name{author}{1}{}{%

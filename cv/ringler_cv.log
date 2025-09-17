@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  7 SEP 2025 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  17 SEP 2025 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -960,7 +960,7 @@ Package logreq Info: Writing requests to 'ringler_cv.run.xml'.
 Here is how much of TeX's memory you used:
  25471 strings out of 473190
  461899 string characters out of 5715801
- 1422149 words of memory out of 5000000
+ 1423149 words of memory out of 5000000
  48271 multiletter control sequences out of 15000+600000
  623772 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -970,10 +970,10 @@ me5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xchart
 er/XCharter-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xch
 arter/XCharter-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/xcharter/XCharter-Roman.pfb>
-Output written on ringler_cv.pdf (4 pages, 206810 bytes).
+Output written on ringler_cv.pdf (4 pages, 206954 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  24 named destinations out of 1000 (max. 500000)
  28233 words of extra memory for PDF output out of 29859 (max. 10000000)
 
