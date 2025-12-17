@@ -110,7 +110,7 @@
 
 
 }
-\newcommand{\review}[1]{{#1}
+\newcommand{\review}[1]{{\qquad #1}
 \vspace{.4em}
 
 }
