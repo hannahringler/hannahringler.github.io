@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  17 DEC 2025 15:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  17 DEC 2025 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -936,12 +936,7 @@ Overfull \hbox (8.48793pt too wide) in alignment at lines 6--26
 
 ) (./service.tex
 
-[3]
-Overfull \hbox (8.48793pt too wide) in alignment at lines 34--68
- [] [] 
- []
-
-) (./awards.tex) (./memberships.tex) (./languages.tex
+[3]) (./awards.tex) (./memberships.tex) (./languages.tex
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/m/n' will be
 (Font)              scaled to size 7.68005pt on input line 7.
 
@@ -949,9 +944,9 @@ Overfull \hbox (8.48793pt too wide) in alignment at lines 2--9
  [] [] 
  []
 
-[4])
+)
 
-[5] (./ringler_cv.aux)
+[4] (./ringler_cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -963,10 +958,10 @@ Package logreq Info: Writing requests to 'ringler_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25475 strings out of 473190
- 461922 string characters out of 5715801
- 1423202 words of memory out of 5000000
- 48273 multiletter control sequences out of 15000+600000
+ 25471 strings out of 473190
+ 461899 string characters out of 5715801
+ 1423149 words of memory out of 5000000
+ 48271 multiletter control sequences out of 15000+600000
  623772 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,8n,101p,1003b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -975,10 +970,10 @@ me5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xchart
 er/XCharter-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xch
 arter/XCharter-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/xcharter/XCharter-Roman.pfb>
-Output written on ringler_cv.pdf (5 pages, 207462 bytes).
+Output written on ringler_cv.pdf (4 pages, 206954 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
  28233 words of extra memory for PDF output out of 29859 (max. 10000000)
 
