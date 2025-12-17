@@ -110,6 +110,11 @@
 
 
 }
+\newcommand{\review}[1]{{#1}
+\vspace{.4em}
+
+}
+
 \newcommand{\talkattendance}[5]{
 ``{#1},'' organized by {#2}. Invited participant. \textit{#3}, {#4}; {#5}.\vspace{1em}
 
