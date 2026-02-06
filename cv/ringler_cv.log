@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  28 JAN 2026 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  6 FEB 2026 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -891,7 +891,7 @@ LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
 LaTeX Font Info:    Font shape `T1/XCharter-TOsF/b/n' will be
 (Font)              scaled to size 10.51207pt on input line 8.
 
-Overfull \hbox (8.48793pt too wide) in alignment at lines 2--37
+Overfull \hbox (8.48793pt too wide) in alignment at lines 2--46
  [] [] 
  []
 
@@ -944,9 +944,9 @@ Overfull \hbox (8.48793pt too wide) in alignment at lines 2--9
  [] [] 
  []
 
-)
+[4])
 
-[4] (./ringler_cv.aux)
+[5] (./ringler_cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -958,9 +958,9 @@ Package logreq Info: Writing requests to 'ringler_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25471 strings out of 473190
- 461899 string characters out of 5715801
- 1423149 words of memory out of 5000000
+ 25472 strings out of 473190
+ 461905 string characters out of 5715801
+ 1422149 words of memory out of 5000000
  48271 multiletter control sequences out of 15000+600000
  623772 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -970,10 +970,10 @@ me5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xchart
 er/XCharter-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/xch
 arter/XCharter-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publi
 c/xcharter/XCharter-Roman.pfb>
-Output written on ringler_cv.pdf (4 pages, 206993 bytes).
+Output written on ringler_cv.pdf (5 pages, 207287 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
  28233 words of extra memory for PDF output out of 29859 (max. 10000000)
 
